@@ -1,0 +1,21 @@
+{
+     "cSpell.words": [
+        "bson",
+        "dgrijalva",
+        "gbubemi",
+        "ginsetup",
+        "godotenv",
+        "gonic",
+        "gowith",
+        "joho"
+    ],
+     "emeraldwalk.runonsave": {
+         "commands": [
+             {
+                 "match": "\\.go$",
+                 "cmd": "golines ${file} -w"
+             }
+         ]
+     }
+ }
+ 
